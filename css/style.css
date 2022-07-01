@@ -1,0 +1,132 @@
+body {
+  background-color: #d8d7d6;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 900px;
+  border: 4px solid #2b3743;
+  border-radius: 10px;
+}
+
+.left h3 {
+  color: white;
+  margin-left: 25px;
+  text-decoration: underline;
+}
+
+table {
+  padding: 2px;
+}
+
+table td {
+  padding: 2px;
+  vertical-align: top;
+}
+
+.left {
+  background-color: #2b3743;
+  border-radius: 10px;
+  color: #ffff;
+}
+
+.profile-pic img {
+  border: 4px solid #ffff;
+  border-radius: 100px;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+
+.left ul {
+  margin-top: -10px;
+}
+
+.left li {
+  list-style: none;
+  margin-left: -15px;
+  font-size: 13px;
+  line-height: 1.2;
+  letter-spacing: 1px;
+}
+
+.left hr {
+  margin: 0px 5px 0px 5px;
+}
+
+.featured-image {
+  margin-left: 12px;
+}
+
+.featured-image img {
+  margin-left: 5px;
+}
+
+.social-image {
+  margin-left: 50px;
+  padding-bottom: 8px;
+}
+
+.social-image img {
+  margin-left: 5px;
+  border-radius: 25px;
+}
+
+.right {
+  padding-left: 10px;
+}
+
+.right h5 {
+  margin-top: -20px;
+  color: black;
+  font-size: 14px;
+}
+
+.info {
+  margin-left: 10ox;
+}
+
+.content h3 {
+  background-color: #242f9b;
+  color: white;
+  width: auto;
+  padding: 7px 10px;
+  border-radius: 20px 0px 0px 20px;
+  font-size: 17px;
+}
+
+.right.content p {
+  font-size: 50px;
+}
+
+.content h4 {
+  margin-left: 10px;
+  margin-top: -2px;
+}
+
+.content h5 {
+  margin-left: 10px;
+  margin-bottom: -0px;
+  font-size: 15px;
+  font-weight: 100;
+}
+
+.content span {
+  margin-left: 20px;
+  margin-top: -50px;
+}
+
+.content img {
+  border: 2px solid;
+  border-radius: 2px;
+}
+
+footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: auto;
+}
